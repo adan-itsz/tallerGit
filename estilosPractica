@@ -1,0 +1,39 @@
+body{
+	font-family:sans-serif;
+	background: #ccc;
+	font-weight: 100;
+}
+h1{
+	text-align: center;
+	color:#666;
+	
+}
+.cajaPrincipal{
+	width:650px;
+	margin:0 auto;
+	background-color:#fff;
+	border-radius: 15px;
+	padding: 10px;
+}
+.contactoItems{
+	border-bottom: thin solid #ccc;
+	padding:10px;
+}
+.nombre{
+	font-size: 18px;
+}
+.telefono{
+	font-style: italic;
+	font-size: 13px;
+}
+.form{
+	margin-bottom: 4px;
+}
+button{
+	background: #080;
+	color:#fff;
+	border-radius: 5px;
+	border: thin solid #060;
+	padding: 5px 15px;
+	margin: 5px auto;
+}
